@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&display=swap');
+*{
+    margin: 4px;
+    padding:3px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+
+.nav{
+    width: 100%;
+    height: 75px;
+    line-height: 75px;
+    padding: 10px 100px;
+    position: fixed;
+    z-index: 1;
+}
+
+nav .logo{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+
+nav .logo p{
+    float: left;
+    color: white;
+    text-transform: uppercase;
+}
+
+nav ul{
+    float: right;
+    word-spacing: 10px;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    word-spacing: 3px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 30px 32 px;
+}
+
+
+nav ul li a:hover{
+    color:blue;
+}
+
+/*Game overview*/
+
+.title{
+    
+    text-align: center;
+    color: white;
+}
+
+/*modes*/
+
+.mode{
+    color: white;
+}
+
+.map{
+    color: white;
+}
+
+.character{
+    color: white;
+}
+
+.download{
+    color: white;
+}
+.play{
+    color: white;
+}
+
+.app{
+    color: white;
+}
