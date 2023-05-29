@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     background-color: black;
+    color: white;
 }
 
 .nav{
@@ -82,5 +83,18 @@ nav ul li a:hover{
 }
 
 .app{
+    color: white;
+}
+
+/*content*/
+
+.head{
+    color: white;
+    padding: 30px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.first{
     color: white;
 }

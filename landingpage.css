@@ -58,6 +58,22 @@ nav ul li a:hover{
     background-color: black;
 }
 
+
+/*banner*/
+.banner{
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(40%);
+    text-align: center;
+}
+
+.bannertext{
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: 70px;
+}
 /* left side*/
 .left {
     color: white;
@@ -76,11 +92,21 @@ nav ul li a:hover{
 
 /*button for watch the trailer*/
 .watch{
-    border: 2px solid;
-    border-style: round;
-    border-color: white;
-    border-width: auto;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 50px;
+    padding: 14px 70px;
     color: black;
-    padding: 5px;
+    padding: 8px;
     width: auto;
+    margin-top: 20px;
+    margin-left: 70px;
+
+}
+
+/*News*/
+.news{
+    color: white;
+    text-align: left;
+    font-size: 60px;
 }

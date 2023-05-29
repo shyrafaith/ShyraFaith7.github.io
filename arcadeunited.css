@@ -5,6 +5,8 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     background-color: black;
+    color: white;
+    /*background-image: url(bg\ pic\ for\ arcade\ united.jpg);*/
 }
 
 .nav{
@@ -52,11 +54,23 @@ nav ul li a:hover{
     color:blue;
 }
 
+/*bg pic*/
+.bgpic{
+    height: 100%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(40%);
+    background-clip: text;
+
+}
+
+
 /*title UNITED ARCADE*/
 
 .title{
     padding: 50px;
-    padding-top: 400px;
+    padding-top: 200px;
     font-size: 60px;
     text-align: center;
     color: white;
@@ -67,8 +81,17 @@ nav ul li a:hover{
 }
 
 .button{
-    border: 2px solid;
-    color: white;
+    font-size: 25px;
+    border: solid white;
+    border-radius: 50px;
+    fill: white;
+    padding: 14px 70px;
     text-align: center;
-    margin: 3px;
+    margin-top: 20px;
+    
+    
 }
+
+
+
+/*body*/

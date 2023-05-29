@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     background-color: black;
+    color: white;
 }
 
 .nav{
@@ -56,4 +57,66 @@ nav ul li a:hover{
 
 .body{
     color: white;
+}
+
+/*content*/
+.Videos{
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+    
+    font-size: 30px;
+}
+
+/*videos*/
+.ml{
+    border: 1px hidden;
+    border-width: 560px;
+    float: left;
+    margin-left: 50px;
+}
+
+.cod{
+    border: 1px hidden;
+    border-width: 560px;
+    float: right;
+    margin-right: 50px;
+}
+
+.valo{
+    border: 1px hidden;
+    border-width: 560px;
+    float: left;
+    margin-left: 50px;
+}
+
+.overwatch{
+    border: 1px hidden;
+    border-width: 560px;
+    float: right;
+    margin-right: 50px;
+}
+
+/*must watch*/
+.watch1{
+    border: hidden;
+    text-align: center;
+    float: left;
+    
+
+    
+}
+
+.watch2{
+    border: hidden;
+    text-align: center;
+    
+
+}
+
+.watch3{
+    border: hidden;
+    float: right;
+    text-align: center;
+    
 }
