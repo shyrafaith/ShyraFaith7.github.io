@@ -52,3 +52,63 @@ nav ul li a{
 nav ul li a:hover{
     color:blue;
 }
+
+/*body*/
+.body{
+    padding: 20px;
+    margin: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+/*game review*/
+.review{
+    padding: 50px;
+    margin: 30px;
+    text-align: center;
+    font-size: 40px;
+}
+.games{
+    text-align: center;
+}
+.games h1{
+    text-align: center;
+}
+
+.games li{
+    font-size: 23px;
+}
+
+/*xbox*/
+.xbox{
+    text-align: center;
+}
+
+.xbox li{
+    font-size: 23px;
+}
+
+/*ps*/
+.ps{
+    text-align: center;
+}
+.ps h1{
+    text-align: center;
+}
+
+.ps li{
+    font-size: 23px;
+}
+
+/*nintendo*/
+.nintendo{
+    text-align: center;
+}
+.nintendo h1{
+    text-align: center;
+}
+
+.nintendo li{
+    font-size: 23px;
+}

@@ -60,8 +60,7 @@ nav ul li a:hover{
     padding: 30px;
     margin-bottom: 20px;
     margin: 30px;
-    font-size: 30px;
-    font-weight: 30px;
+    font-size: 40px;
     text-align: center;
 }
 .news1 {
@@ -80,31 +79,11 @@ nav ul li a:hover{
     float: right;
 }
 
-/*2023 new games*/
-
-.game{
-    font-size: 40px;
-    font-weight: 30px;
+/*more news*/
+.morenews{
     text-align: center;
-    padding: 30px;
+    font-size: 40px;
 }
-
-.game1 {
-    float: left;
-}
-
-.game2 {
-    float: left;
-}
-
-.game3{
-    float: right;
-}
-
-.game4{
-    float: right;
-}
-
 /*nintendo*/
 
 .nintendo{
@@ -160,3 +139,28 @@ nav ul li a:hover{
 .ps4{
     float: right;
 }
+
+/*2023 new games*/
+
+.game{
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+}
+
+.game1 {
+    float: left;
+}
+
+.game2 {
+    float: left;
+}
+
+.game3{
+    float: right;
+}
+
+.game4{
+    float: right;
+}
+

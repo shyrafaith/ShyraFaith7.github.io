@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     background-color: black;
+    color: white;
 }
 
 .nav{
@@ -50,4 +51,18 @@ nav ul li a{
 
 nav ul li a:hover{
     color:blue;
+}
+
+/*discord*/
+.socmed{
+    text-align: left;
+    padding: 50px;
+    margin: 30px;
+}
+
+/*contact*/
+.contact{
+    text-align: left;
+    padding: 40px;
+    margin: 30px;
 }

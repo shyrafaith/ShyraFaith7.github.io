@@ -52,3 +52,23 @@ nav ul li a{
 nav ul li a:hover{
     color:blue;
 }
+
+/*forum*/
+.forum{
+    padding: 30px;
+    margin: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+/*platform*/
+.platform{
+    color: white;
+    
+}
+
+
+/*discord*/
+.socmed{
+    text-align: center;
+}

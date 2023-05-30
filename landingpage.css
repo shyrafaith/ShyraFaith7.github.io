@@ -133,6 +133,13 @@ nav ul li a:hover{
 
 
 /*update*/
+
+.update {
+    text-align: left;
+    padding-left: 10px;
+    padding: 20px;
+    padding-top: 50px;
+}
 .update1 {
     float: left;
 }
@@ -150,6 +157,10 @@ nav ul li a:hover{
 }
 
 /*video*/
+.video{
+    text-align: left;
+    font-size: 60px;
+}
 
 /*must watch*/
 .watch1{
@@ -171,6 +182,30 @@ nav ul li a:hover{
 }
 
 .watch4 {
+    float: right;
+    text-align: center;
+}
+
+/*trending*/
+.trending1{
+    border: hidden;
+    text-align: center;
+    float: left;
+}
+
+.trending2{
+    border: hidden;
+    float: left;
+    text-align: center;
+}
+
+.trending3{
+    border: hidden;
+    float: right;
+    text-align: center;
+}
+
+.trending4 {
     float: right;
     text-align: center;
 }

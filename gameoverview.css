@@ -99,6 +99,7 @@ nav ul li a:hover{
     padding: 30px;
     margin-top: 40px;
     text-align: center;
+    font-size: 25px;
 }
 
 .first{
@@ -116,15 +117,33 @@ nav ul li a:hover{
     font-weight: 10px;
 }
 
+/*discover*/
+.discover{
+    font-size: 20px;
+    
+}
 /*more game genre*/
 .moba{
     text-align: center;
 }
 
+.moba h2{
+    font-size: 40px;
+}
+
 .rpg{
     text-align: center;
+
+}
+
+.rpg h2{
+    font-size: 40px;
 }
 
 .mmorpg{
     text-align: center;
+}
+
+.mmorpg h2 {
+    font-size: 40px;
 }
