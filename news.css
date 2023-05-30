@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     background-color: black;
+    color: white;
 }
 
 .nav{
@@ -52,6 +53,110 @@ nav ul li a:hover{
     color:blue;
 }
 
-/*example for news*/
 
-        
+/*latest news*/
+
+.latest {
+    padding: 30px;
+    margin-bottom: 20px;
+    margin: 30px;
+    font-size: 30px;
+    font-weight: 30px;
+    text-align: center;
+}
+.news1 {
+    float: left;
+}
+
+.news2 {
+    float: left;
+}
+
+.news3{
+    float: right;
+}
+
+.news4{
+    float: right;
+}
+
+/*2023 new games*/
+
+.game{
+    font-size: 40px;
+    font-weight: 30px;
+    text-align: center;
+    padding: 30px;
+}
+
+.game1 {
+    float: left;
+}
+
+.game2 {
+    float: left;
+}
+
+.game3{
+    float: right;
+}
+
+.game4{
+    float: right;
+}
+
+/*nintendo*/
+
+.nintendo{
+    text-align: left;
+}
+.nintendo1 {
+    float: left;
+}
+
+.nintendo2 {
+    float: left;
+}
+
+.nintendo3{
+    float: right;
+}
+
+.nintendo4{
+    float: right;
+}
+
+/*xbox*/
+.xbox1 {
+    float: left;
+}
+
+.xbox2 {
+    float: left;
+}
+
+.xbox3{
+    float: right;
+}
+
+.xbox4{
+    float: right;
+}
+
+
+/*ps*/
+.ps1 {
+    float: left;
+}
+
+.ps2 {
+    float: left;
+}
+
+.ps3{
+    float: right;
+}
+
+.ps4{
+    float: right;
+}

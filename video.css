@@ -102,21 +102,21 @@ nav ul li a:hover{
     border: hidden;
     text-align: center;
     float: left;
-    
-
-    
 }
 
 .watch2{
     border: hidden;
+    float: left;
     text-align: center;
-    
-
 }
 
 .watch3{
     border: hidden;
     float: right;
     text-align: center;
-    
+}
+
+.watch4 {
+    float: right;
+    text-align: center;
 }

@@ -53,6 +53,12 @@ nav ul li a:hover{
     color:blue;
 }
 
+/*body*/
+.body{
+    padding: 10px;
+    margin: 10px;
+}
+
 /*Game overview*/
 
 .title{
@@ -97,4 +103,28 @@ nav ul li a:hover{
 
 .first{
     color: white;
+    float: left;
+    margin-left: 300px;
+    font-size: 20px;
+    font-weight: 10px;
+}
+
+.second{
+    float: right;
+    margin-right: 300px;
+    font-size: 20px;
+    font-weight: 10px;
+}
+
+/*more game genre*/
+.moba{
+    text-align: center;
+}
+
+.rpg{
+    text-align: center;
+}
+
+.mmorpg{
+    text-align: center;
 }

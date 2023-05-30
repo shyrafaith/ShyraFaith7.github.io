@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     background-color: black;
+    color: white;
 }
 
 .nav{
@@ -73,6 +74,7 @@ nav ul li a:hover{
     color: white;
     font-size: larger;
     font-weight: 70px;
+    font-size: 35px;
 }
 /* left side*/
 .left {
@@ -109,4 +111,66 @@ nav ul li a:hover{
     color: white;
     text-align: left;
     font-size: 60px;
+}
+
+/*news 1 to 4*/
+
+.news1 {
+    float: left;
+}
+
+.news2 {
+    float: left;
+}
+
+.news3{
+    float: right;
+}
+
+.news4{
+    float: right;
+}
+
+
+/*update*/
+.update1 {
+    float: left;
+}
+
+.update2 {
+    float: left;
+}
+
+.update3{
+    float: right;
+}
+
+.update4{
+    float: right;
+}
+
+/*video*/
+
+/*must watch*/
+.watch1{
+    border: hidden;
+    text-align: center;
+    float: left;
+}
+
+.watch2{
+    border: hidden;
+    float: left;
+    text-align: center;
+}
+
+.watch3{
+    border: hidden;
+    float: right;
+    text-align: center;
+}
+
+.watch4 {
+    float: right;
+    text-align: center;
 }
