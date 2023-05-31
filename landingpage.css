@@ -109,7 +109,7 @@ nav ul li a:hover{
 /*News*/
 .news{
     color: white;
-    text-align: left;
+    text-align: center;
     font-size: 60px;
 }
 
@@ -157,7 +157,7 @@ nav ul li a:hover{
 
 /*video*/
 .video{
-    text-align: left;
+    text-align: center;
     font-size: 60px;
 }
 
