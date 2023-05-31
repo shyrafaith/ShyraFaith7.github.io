@@ -112,3 +112,12 @@ nav ul li a:hover{
 .nintendo li{
     font-size: 23px;
 }
+
+/*footer*/
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}

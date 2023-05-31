@@ -147,3 +147,12 @@ nav ul li a:hover{
 .mmorpg h2 {
     font-size: 40px;
 }
+
+/*footer*/
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
