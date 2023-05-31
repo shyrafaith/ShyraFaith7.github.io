@@ -136,9 +136,8 @@ nav ul li a:hover{
 
 .update {
     text-align: left;
-    padding-left: 10px;
-    padding: 20px;
-    padding-top: 50px;
+    justify-content: left;
+    flex-direction: column;
 }
 .update1 {
     float: left;
