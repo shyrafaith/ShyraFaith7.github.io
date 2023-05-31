@@ -62,7 +62,6 @@ nav ul li a:hover{
 
 /*banner*/
 .banner{
-    width: auto;
     background-repeat: no-repeat;
     background-size: cover;
     filter: brightness(40%);
