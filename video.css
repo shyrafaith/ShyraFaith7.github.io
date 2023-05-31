@@ -123,32 +123,27 @@ nav ul li a:hover{
 
 /*trending*/
 .trending1{
-    border: hidden;
-    text-align: center;
     float: left;
 }
 
 .trending2{
-    border: hidden;
     float: left;
-    text-align: center;
 }
 
 .trending3{
-    border: hidden;
-    float: right;
-    text-align: center;
+    float: left;
 }
 
 .trending4 {
     float: right;
-    text-align: center;
 }
 
 
 /*last*/
-
-/*.last1{
+.more{
+    text-align: left;
+}
+.last1{
    
     float: left;
 }
@@ -164,12 +159,12 @@ nav ul li a:hover{
 
 .last4 {
     float: right;
-} */
+} 
 
 
 /*footer*/
-/*.footer{
+.footer{
 
     text-align: center;
     padding-right: 50px;
-}*/
+}
