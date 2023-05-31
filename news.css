@@ -79,6 +79,22 @@ nav ul li a:hover{
     float: right;
 }
 
+.update1 {
+    float: left;
+}
+
+.update2 {
+    float: left;
+}
+
+.update3{
+    float: right;
+}
+
+.update4{
+    float: right;
+}
+
 /*more news*/
 .morenews{
     text-align: center;
