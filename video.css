@@ -79,21 +79,21 @@ nav ul li a:hover{
 .cod{
     border: 1px hidden;
     border-width: 560px;
-    float: right;
+    float: left;
     margin-right: 50px;
 }
 
 .valo{
     border: 1px hidden;
     border-width: 560px;
-    float: left;
+    float: right;
     margin-left: 50px;
 }
 
 .overwatch{
     border: 1px hidden;
     border-width: 560px;
-    float: right;
+    float: left;
     margin-right: 50px;
 }
 
