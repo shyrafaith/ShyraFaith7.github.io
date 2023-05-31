@@ -72,7 +72,7 @@ nav ul li a:hover{
 .ml{
     border: 1px hidden;
     border-width: 560px;
-    float: left;
+    float: right;
     margin-left: 50px;
 }
 
@@ -96,6 +96,26 @@ nav ul li a:hover{
     float: right;
     margin-right: 50px;
 }
+
+/*last*/
+
+.last1{
+   
+    float: left;
+}
+
+.last2{
+    float: left;
+}
+
+
+.last3{
+    float: right;
+}
+
+.last4 {
+    float: right;
+} 
 
 /*must watch*/
 .watch1{
@@ -146,25 +166,7 @@ nav ul li a:hover{
 }
 
 
-/*last*/
 
-/*.last1{
-   
-    float: right;
-}
-
-.last2{
-    float: left;
-}
-
-
-.last3{
-    float: right;
-}
-
-.last4 {
-    float: left;
-} */
 
 
 /*footer*/
