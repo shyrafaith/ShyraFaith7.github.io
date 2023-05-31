@@ -97,26 +97,6 @@ nav ul li a:hover{
     margin-right: 50px;
 }
 
-/*last*/
-
-.last1{
-   
-    float: left;
-}
-
-.last2{
-    float: left;
-}
-
-
-.last3{
-    float: right;
-}
-
-.last4 {
-    float: right;
-} 
-
 /*must watch*/
 .watch1{
     border: hidden;
@@ -166,7 +146,25 @@ nav ul li a:hover{
 }
 
 
+/*last*/
 
+/*.last1{
+   
+    float: left;
+}
+
+.last2{
+    float: left;
+}
+
+
+.last3{
+    float: right;
+}
+
+.last4 {
+    float: right;
+} */
 
 
 /*footer*/
